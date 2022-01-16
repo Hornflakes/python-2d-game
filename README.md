@@ -1,7 +1,6 @@
 # Ultimate Ghost Fight 9000 :: 2d platformer 1v1 shooter
 
-My first Python game project.
-Built with pygame.
+Built with pygame. Need to import module.
 
 Light ghost controls: 
 wasd to move, space to shoot.
