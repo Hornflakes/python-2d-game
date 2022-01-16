@@ -1,5 +1,4 @@
-# python-2d-game
-Ultimate Ghost Fight 9000 :: 2d platformer 1v1 shooter.
+# Ultimate Ghost Fight 9000 :: 2d platformer 1v1 shooter
 
 My first Python game project.
 Built with pygame.
