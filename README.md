@@ -6,3 +6,6 @@
 Light ghost controls: wasd to move, space to shoot.
 
 Dark ghost controls:arrows to move, keypad 0 to shoot.
+
+## Preview
+![screenshot](https://i.imgur.com/vN1lRvX.png)
