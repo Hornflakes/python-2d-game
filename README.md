@@ -3,7 +3,6 @@
 ### Built with pygame. Need to import module.
 
 ## Controls
-Light ghost controls: 
-wasd to move, space to shoot.
-Dark ghost controls:
-arrows to move, keypad 0 to shoot.
+Light ghost controls: wasd to move, space to shoot.
+
+Dark ghost controls:arrows to move, keypad 0 to shoot.
