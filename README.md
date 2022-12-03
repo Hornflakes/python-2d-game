@@ -2,25 +2,28 @@
 
 ## Description
 
-My ***first ever*** project :: a game where two ghosts throw it down 👻💥👻
+My **_first ever_** project :: a game where two ghosts throw it down 👻💥👻
 
-It's a **local multiplayer shooter platformer 2D game** built with [*pygame*](https://www.pygame.org)
+It's a **local multiplayer shooter platformer 2D game** built with [_pygame_](https://www.pygame.org)
 
 ## Setup
-**Installing pygame** ```pip install pygame```
+
+`pip install -r reqs.txt`
 
 ## Controls
-***Light Ghost***
+
+**_Light Ghost_**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Move - `W A S D`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shoot - `spacebar`
 
-***Dark Ghost***
+**_Dark Ghost_**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Move - `← ↑ → ↓`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shoot - `keypad 0`
 
 ## Preview
+
 ![screenshot](https://imgur.com/D0oLqqe.png)
